@@ -1,0 +1,10 @@
+!pip install yfinance
+import requests
+import http.client
+from bs4 import BeautifulSoup
+import pandas as pd
+import re
+import traceback
+import yfinance as yf
+from datetime import datetime
+from matplotlib import pyplot as plt
