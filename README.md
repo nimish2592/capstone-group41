@@ -25,11 +25,11 @@ Small Cap: https://www.nseindia.com/products-services/indices-niftysmallcap250-i
 **Code Contributor**
 
 Names:
-Nimish Khandelwal
-Abhinav Palewar
+Nimish Khandelwal,
+Abhinav Palewar,
 Shubham Palewar
 
 Email Ids:
-nimish.khandelwal25@gmail.com
-abhinav.palewar@skema.edu
+nimish.khandelwal25@gmail.com,
+abhinav.palewar@skema.edu,
 Shubham.palewar@gmail.com
